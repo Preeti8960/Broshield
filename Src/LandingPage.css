@@ -23,7 +23,7 @@ body{
   z-index: 20;
   top: 25%;
   right: 0px;
-  font-size: 20px;
+  font-size: 18px;
   font-family: livic;
   font-weight: 600;
   padding: 13px;
@@ -665,7 +665,7 @@ body{
 }
 .footerBottomContainer span{
   font-size: 17px;
-  
+
 }
 
 }
